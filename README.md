@@ -45,7 +45,7 @@ Please follow the installation instructions specific to your text editor, IDE, o
 
 
 **Feel Free to Contribute inorder to enhance the experience of Jamun Dark Theme**
-[Github Repo](http://code.visualstudio.com/docs/languages/markdown)
+[Github Repo](https://github.com/Mohit5Upadhyay/vscode-jamunDarkTheme)
 
 
 **Enjoy!**
