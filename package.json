@@ -3,7 +3,7 @@
   "displayName": "jamunTheme",
   "description": "best dark theme for long hours coding ...",
   "version": "0.1.0",
-  "publisher": "Mohit Upadhyay / Rohit Upadhyay / Anuj Upadhyay",
+  "publisher": "mohitUpadhyayRohitUpadhyayAnujUpadhyay",
   "icon": "images/jamun-logo.png",
   "repository": {
     "type": "git",
@@ -14,6 +14,8 @@
   },
   "keywords": [
     "theme",
+    "vscode",
+    "dark",
     "jamun theme",
     "blueberry theme",
     "indian dark theme",
