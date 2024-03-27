@@ -1,0 +1,43 @@
+{
+  "name": "jamunTheme",
+  "displayName": "jamunTheme",
+  "description": "best dark theme for long hours coding ...",
+  "version": "0.1.0",
+  "publisher": "Mohit Upadhyay / Rohit Upadhyay / Anuj Upadhyay",
+  "icon": "images/jamun-logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mohit5Upadhyay/vscode-jamunDarkTheme"
+  },
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "keywords": [
+    "theme",
+    "jamun theme",
+    "blueberry theme",
+    "indian dark theme",
+    "dark theme",
+    "student theme",
+    "long hour dark theme",
+    "best dark theme",
+    "coder theme",
+    "teacher theme",
+    "upadhyay theme",
+    "vscode dark theme",
+    "best dark theme on vscode"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "jamunTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jamunTheme-color-theme.json"
+        
+      }
+    ]
+  }
+}
