@@ -2,7 +2,7 @@
   "name": "jamunTheme",
   "displayName": "jamunTheme",
   "description": "best dark theme for long hours coding ...",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "mohitUpadhyayRohitUpadhyayAnujUpadhyay",
   "icon": "images/jamun-logo.png",
   "repository": {
@@ -38,7 +38,6 @@
         "label": "jamunTheme",
         "uiTheme": "vs-dark",
         "path": "./themes/jamunTheme-color-theme.json"
-        
       }
     ]
   }
