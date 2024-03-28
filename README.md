@@ -1,6 +1,6 @@
 # jamuntheme  README
 
-## best jamun dark theme for coders.
+## Best jamun dark theme for coders.
 
 Welcome to the Jamun Dark Theme! Immerse yourself in the deep, dark, and soothing tones of Jamun, designed to provide an elegant and eye-friendly experience for your coding sessions, text editing, or any application interface that supports theme customization.
 
@@ -28,7 +28,7 @@ Please follow the installation instructions specific to your text editor, IDE, o
 ### Visual Studio Code
 
 1. Open the Extensions sidebar.
-2. Search for "Jamun Dark Theme."
+2. Search for " jamun Theme."
 3. Click on the Install button.
 
 

@@ -33,7 +33,7 @@
 	  "sideBarTitle.foreground": "#c6a59f",
 	  "sideBarSectionHeader.border": "#0f1315",
 	  "statusBar.foreground": "#1679b6",
-	  "statusBar.background": "#07273b",
+	  "statusBar.background": "#252425",
 	  "statusBar.border": "#0f1315",
 	  "statusBar.debuggingBackground": "#07273b",
 	  "statusBar.debuggingForeground": "#ff80ac50",
@@ -42,7 +42,7 @@
 	  "statusBar.noFolderBackground": "#07273b",
 	  "statusBar.noFolderBorder": "#07273b",
 	  "statusBarItem.activeBackground": "#007ecc59",
-	  "statusBarItem.hoverBackground": "#0a3652",
+	  "statusBarItem.hoverBackground": "#0a3652be",
 	  "statusBarItem.prominentBackground": "#051e2e",
 	  "statusBarItem.prominentHoverBackground": "#002f4d",
 	  "button.background": "#27292a",
@@ -73,8 +73,8 @@
 	  "tab.unfocusedActiveBackground": "#002c47",
 	  "tab.activeForeground": "#FFFFFF",
 	  "tab.border": "#0f1315",
-	  "tab.inactiveBackground": "#09334e",
-	  "tab.inactiveForeground": "#9fb6c6",
+	  "tab.inactiveBackground": "#4c4b4c",
+	  "tab.inactiveForeground": "#cce3f3",
 	  "tab.unfocusedActiveForeground": "#9fb6c6",
 	  "tab.unfocusedInactiveForeground": "#9fb6c6",
 	  "tab.activeBorderTop": "#FFFFFF",
@@ -284,14 +284,14 @@
 	  "minimapGutter.addedBackground": "#16b673",
 	  "minimapGutter.modifiedBackground": "#49e9a6",
 	  "minimapGutter.deletedBackground": "#e34e1c",
-	  "minimap.background": "#07273b99"
+	  "minimap.background": "#4c4b4c8e"
 	},
 	"tokenColors": [
 	  {
 		"name": "Comment",
 		"scope": ["comment", "punctuation.definition.comment"],
 		"settings": {
-		  "fontStyle": "italic",
+		  "fontStyle": "italic bold",
 		  "foreground": "#e7f2f7"
 		}
 	  },
@@ -299,7 +299,7 @@
 		"name": "Variables",
 		"scope": ["variable", "string constant.other.placeholder"],
 		"settings": {
-		  "foreground": "#29b264"
+		  "foreground": "#a5d7ff"
 		}
 	  },
 	  {
@@ -320,7 +320,7 @@
 		"name": "Keyword, Storage",
 		"scope": ["keyword", "storage.type", "storage.modifier"],
 		"settings": {
-		  "foreground": "#b66de6"
+		  "foreground": "#d79bff"
 		}
 	  },
 	  {
@@ -364,7 +364,8 @@
 		  "keyword.other.special-method"
 		],
 		"settings": {
-		  "foreground": "#e8317a"
+			"fontStyle": "bold",
+		  "foreground": "#FF6868"
 		}
 	  },
 	  {
